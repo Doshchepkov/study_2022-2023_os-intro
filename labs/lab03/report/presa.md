@@ -94,6 +94,10 @@ https://github.com/lierdakil/pandoc-crossref/releases.
 
 Все программы уже установлены.
 
+Гиперссылка на отчет по второй лабораторной.
+
+[Ссылка на гит с отчетом ко отчету по второй лабораторной](https://github.com/Doshchepkov/NOWWORK/tree/master/Labs/lab2)
+
 # Выводы
 
 Научился создавать отчеты в markdown.

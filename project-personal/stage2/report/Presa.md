@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Отчет по проекту 2"
+title: "Презентация по проекту 2"
 subtitle: "Дисциплина: Операционные системы"
 author: "Ощепков Дмитрий Владимирович"
 
@@ -74,15 +74,11 @@ header-includes:
 
 ![Сгенерировал пост на сайте](/home/dvothepkov/Screens/3.png){#fig:003 width=70%}
 
-Подробные команды в следующем скрине.
-
-![Команды для создания шаблона под пост](/home/dvothepkov/Screens/4.png){#fig:004 width=70%}
-
-![Создал пост о гите](/home/dvothepkov/Screens/5.png){#fig:005 width=70%}
+![Создал пост о гите](/home/dvothepkov/Screens/5.png){#fig:004 width=70%}
 
 Между всем этим авторизовал свой гитхаб в терминале.
 
-![Отправляю все на гит](/home/dvothepkov/Screens/6.png){#fig:006 width=70%}
+![Отправляю все на гит](/home/dvothepkov/Screens/6.png){#fig:005 width=70%}
 
 Здесь можно лицезреть сам сайт: https://doshchepkov.github.io/
 # Выводы

@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Лабораторная работа 6"
+title: "Презентация работа 6"
 subtitle: "Дисциплина: Операционные системы"
 author: "Ощепков Дмитрий Владимирович"
 
@@ -76,20 +76,13 @@ header-includes:
 
 ![Нахожу все файлы с разрешением .conf](/home/dvothepkov/Screens/2.png){#fig:002 width=70%}
 
-![Перезаписываю эти имена файлов в новый файл](/home/dvothepkov/Screens/3.png){#fig:003 width=70%}
+![Нахожу в каталоге etc все файлы, имена которых начинаются с "h"](/home/dvothepkov/Screens/5.png){#fig:003 width=70%}
 
-![Нахожу в домашнем каталоге все файлы, имена которых начинаются с "c"](/home/dvothepkov/Screens/4.png){#fig:004 width=70%}
+![Открываю gedit в фоновом режиме и узнаю информацию о процессе](/home/dvothepkov/Screens/7.png){#fig:004 width=70%}
 
-![Нахожу в каталоге etc все файлы, имена которых начинаются с "h"](/home/dvothepkov/Screens/5.png){#fig:005 width=70%}
+![Останавливаю процесс](/home/dvothepkov/Screens/8.png){#fig:005 width=70%}
 
-![Нахожу в домашнем каталоге все файлы, имена которых заканчиваются на "log" и перезаписываю их в новый файл](/home/dvothepkov/Screens/6.png){#fig:006 width=70%}
-Потом я его удалил
-
-![Открываю gedit в фоновом режиме и узнаю информацию о процессе](/home/dvothepkov/Screens/7.png){#fig:007 width=70%}
-
-![Останавливаю процесс](/home/dvothepkov/Screens/8.png){#fig:008 width=70%}
-
-![Узнаю информацию о памяти с помощью указанных команд](/home/dvothepkov/Screens/9.png){#fig:009 width=70%}
+![Узнаю информацию о памяти с помощью указанных команд](/home/dvothepkov/Screens/9.png){#fig:006 width=70%}
 
 # Выводы
 
